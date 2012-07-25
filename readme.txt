@@ -1,0 +1,37 @@
+=== 3D Facebook Button ===
+Contributors: jolamar
+Donate link: http://liljosh.com
+Tags: CSS3, Facebook, button, like, likes, like button, post, posts, buttons, link, hyperlink
+Requires at least: 2.5.0
+Tested up to: 3.4.1
+Stable Tag: 1.0
+
+The Wordpress Plugin CSS3 GOOGLE BUTTON is a simple and easy to configure plugin to create CSS3 based Google Buttons inside your blog posts.
+
+== Description ==
+
+The Wordpress Plugin *3D FACEBOOK BUTTON* is a simple and easy to configure Wordpress plugin which allows you to create CSS3 based Facebook Buttons inside your blog posts.
+
+**usage** = [FACEBOOKBUTTON]http://liljosh.com[/FACEBOOKBUTTON]
+
+== Installation ==
+
+This section describes how to install the plugin and get it working
+
+1. Upload the plugin folder folder to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+
+= What's the shortcode =
+
+[FACEBOOKBUTTON]http://liljosh.com[/FACEBOOKBUTTON]
+
+== Screenshots ==
+
+Will add screenshots later this week.
+
+== Changelog ==
+
+= 1.0 =
+* Initial release. Future plans will allow you to click the button to like the site
