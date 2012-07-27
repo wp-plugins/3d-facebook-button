@@ -28,7 +28,7 @@ This section describes how to install the plugin and get it working
 
 == Screenshots ==
 
-Will add screenshots later this week.
+1. This is how the button reacts when you hover over it, revealing the amount of likes your URL has.
 
 == Changelog ==
 
