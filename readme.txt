@@ -6,11 +6,10 @@ Requires at least: 2.5.0
 Tested up to: 3.4.1
 Stable Tag: 1.0
 
-The Wordpress Plugin CSS3 GOOGLE BUTTON is a simple and easy to configure plugin to create CSS3 based Google Buttons inside your blog posts.
-
+The Wordpress Plugin 3D FACEBOOK BUTTON is a simple and easy to configure plugin to create a button that shows how many likes your URL has. 
 == Description ==
 
-The Wordpress Plugin *3D FACEBOOK BUTTON* is a simple and easy to configure Wordpress plugin which allows you to create CSS3 based Facebook Buttons inside your blog posts.
+The Wordpress Plugin *3D FACEBOOK BUTTON* is a simple and easy to configure Wordpress plugin which allows you to create CSS3 based Facebook Buttons inside your blog posts.Hovering your mouse over the logo will cause it to fall open in 3D, revealing how many likes your site has.
 
 **usage** = [FACEBOOKBUTTON]http://liljosh.com[/FACEBOOKBUTTON]
 
