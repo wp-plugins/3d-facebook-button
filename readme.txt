@@ -3,8 +3,8 @@ Contributors: jolamar
 Donate link: http://liljosh.com
 Tags: CSS3, Facebook, button, like, likes, like button, post, posts, buttons, link, hyperlink
 Requires at least: 2.5.0
-Tested up to: 3.4.1
-Stable Tag: 1.0
+Tested up to: 3.9
+Stable Tag: 1.1
 
 The Wordpress Plugin 3D FACEBOOK BUTTON is a simple and easy to configure plugin to create a button that shows how many likes your URL has. 
 == Description ==
